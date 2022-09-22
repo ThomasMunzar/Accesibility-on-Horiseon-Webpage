@@ -77,4 +77,6 @@ My code finally looked a bit cleaner:
 
 It looks long hear but it was much longer before.
 
+Though the changes that I made to this code did not change the overall look of this website, i believe that it did make the code better and easier to read, as well as making the website follow accessibility standaards.
 
+Hope I did this right.
